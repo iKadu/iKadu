@@ -14,13 +14,6 @@ This is a fresh profile where I'll be uploading some smaller projects, experimen
 - Node.js, C#
 - PostgreSQL, MongoDB
 
-**Maybe worth adding:**
-- Docker — for containerizing services
-- Prisma / Entity Framework — ORM for your Postgres/SQL data
-- GitHub Actions — CI/CD pipelines
-- Tailwind CSS — pairs well with Next.js
-- Insomnia / Postman — API testing
-
 ---
 
 ## A Bit About Me
